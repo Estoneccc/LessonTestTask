@@ -5,7 +5,7 @@ package example.bot;
  */
 public class Constants {
     public static final String COMMAND_START = "/start";
-    public static final String COMMAND_TEST = "/test";
+    public static final String COMMAND_TEST = "/example";
     public static final String COMMAND_STOP = "/stop";
     public static final String COMMAND_HELP = "/help";
     public static final String COMMAND_NOTIFY = "/notify";
